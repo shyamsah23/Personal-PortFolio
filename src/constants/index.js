@@ -6,6 +6,7 @@ import {
     javascript,
     typescript,
     html,
+    // bootsrap,
     css,
     reactjs,
     redux,
@@ -23,17 +24,24 @@ import {
     jobit,
     tripguide,
     threejs,
-    
-    // bootsrap,
+    bootsrap,
+    // nextJS,
+    postman,
+    firebase,
+    Weather,
+    Study,
+    ChatAppUI,
+
   } from "../assets";
 
-  import bootsrap from "../assets/tech/bootsrap.png"
-  import nextjs from "../assets/tech/nextjs.svg"
-  import postman from "../assets/tech/postman.png"
-  import firebase from "../assets/tech/firebase_logo.webp"
-  import Weather from "../assets/Weather.jpeg"
-  import Study from "../assets/Study.jpeg"
-  import ChatAppUI from "../assets/ChatAppUI.jpeg"
+  
+
+
+
+
+  
+ 
+ 
   
   export const navLinks = [
     {
@@ -112,10 +120,7 @@ import {
       name: "BootStrap",
       icon: bootsrap,
     },
-    {
-      name: "NextJS",
-      icon: nextjs,
-    },
+ 
     {
       name: "PostMan",
       icon: postman,

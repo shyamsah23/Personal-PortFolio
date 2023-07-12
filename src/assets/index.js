@@ -29,6 +29,13 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import bootsrap from "./tech/bootsrap.png"
+// import nextJS from "./tech/nextjs.svg"
+import postman from "./tech/postman.png"
+import firebase from "./tech/firebase_logo.webp"
+import Weather from "./Weather.jpeg"
+import Study from "./Study.jpeg"
+import ChatAppUI from "./ChatAppUI.jpeg"
 
 export {
   logo,
@@ -59,4 +66,12 @@ export {
   carrent,
   jobit,
   tripguide,
+  bootsrap,
+  postman,
+  firebase,
+  Weather,
+  Study,
+  ChatAppUI,
+  
+  // nextJS,
 };
