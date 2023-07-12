@@ -1,4 +1,5 @@
-import logo from "./logo.svg";
+
+import logos from "./logos.png"
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -38,7 +39,7 @@ import Study from "./Study.jpeg"
 import ChatAppUI from "./ChatAppUI.jpeg"
 
 export {
-  logo,
+  logos,
   backend,
   creator,
   mobile,
