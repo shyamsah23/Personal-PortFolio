@@ -27,7 +27,7 @@ const Navbar = () => {
         window.scrollTo(0,0);
       }}
       >
-        <img src="src/assets/logos.png" alt="logo" className="w-9 h-9 object-contain"></img>
+        <img src={logos} alt="logo" className="w-9 h-9 object-contain"></img>
         <p className="text-white text-[18px] font-bold cursor-pointer flex">Shyam Lakhan <span className="sm:block hidden">
         </span> </p>
       </Link>
